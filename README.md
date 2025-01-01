@@ -26,7 +26,9 @@ tablePath: repo/table_dir
 ```
 
 sql : write sql place
+
 table: table you want to query
+
 tablePath: the table exists dir path or file path
 
 
