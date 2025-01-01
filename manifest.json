@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-sql-query-table",
+	"name": "obsidian-sql-query-table",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "use sql query table",
+	"author": "wuxl",
+	"authorUrl": "https://github.com/wuxiongliu1",
+	"isDesktopOnly": false
+}
